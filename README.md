@@ -1,4 +1,4 @@
-![logo](https://github.com/deepak6299/deepak6299/blob/main/banner.jpg)
+![logo](https://github.com/deepak6299/deepak6299/blob/main/LinkedInBanner.jpg)
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" align="right" width="400" >
